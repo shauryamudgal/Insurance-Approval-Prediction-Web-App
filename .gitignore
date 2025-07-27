@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+.env.*
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Model files and outputs
+*.pkl
+*.joblib
+system.pkl
+
+# Logs and runtime
+*.log
+
+# PyCharm and VSCode project files
+.idea/
+.vscode/
+
+# Data files (optional if they’re large or not to be committed)
+*.csv
+
+# Plots or visualizations
+*.png
+*.svg
+*.jpg
+*.jpeg
+*.pdf
+
+# MacOS-specific
+.DS_Store
